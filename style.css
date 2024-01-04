@@ -1,0 +1,31 @@
+.Bbox{
+   
+    text-align: center;
+    height:50vh;
+    width:50vw;
+    
+}
+.box1{
+    background-color:  #FCEB22;
+    padding: 10px;
+    margin: 25px;
+    border:2px dotted black;
+}
+.box2{
+    background-color: #FC7A22;
+    padding: 10px;
+    margin: 15px;
+    border:1px solid black
+}
+.box3{
+    background-color:  #225FFC;
+    padding: 10px;
+    margin:10px;
+    border:2px dotted black;
+}
+.box4{
+    background-color:burlywood;
+    padding: 10px;
+    margin:10px;
+    border:1px solid black;
+}
